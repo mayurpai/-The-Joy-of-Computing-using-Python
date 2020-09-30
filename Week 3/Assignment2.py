@@ -1,3 +1,4 @@
+# Programming Assignment 2 : List Slicing
 a, b = input().split()
 a = int(a)
 b = int(b)
