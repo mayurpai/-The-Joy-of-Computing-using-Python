@@ -1,1 +1,0 @@
-print('IIT ROPAR', end='')
