@@ -1,3 +1,4 @@
+# Programming Assignment 3: Profit or Loss
 n = int(input())
 m = int(input())
 if m>n:
