@@ -1,3 +1,4 @@
+# Programming Assignment 2: Robot and the Charger
 import math
 n = int(input())
 move = []
