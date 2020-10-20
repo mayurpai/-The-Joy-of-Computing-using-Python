@@ -1,4 +1,3 @@
-# Programming Assignment 3: Lower Triangular Matrix
 matrix = []
 n = int(input())
 for i in range(n):
